@@ -1,0 +1,2 @@
+# FIFO-synchronous-Asynchronous-
+FIFO is a design component used for interfacing data transfer between two components either working on same frequency or a different frequencies. I have implemented both Synchronous FIFO and Asynchronous FIFO using Verilog and the RTL code also verified using Verilog The design was implemented in such a way that there are no race or glitch conditions arise due to design working in two different clock domains
